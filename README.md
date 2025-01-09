@@ -17,7 +17,7 @@ Maria Lopez Sanchez (maria.lopez.sanchez@rwth-aachen.de): Software, Validation
 
 ## Contact
 
-[![EONERC ACS Logo](docs/eonerc_logo.png)](http://www.acs.eonerc.rwth-aachen.de)
+[![EONERC ACS Logo](eonerc_logo.png)](http://www.acs.eonerc.rwth-aachen.de)
 
 - [Mirko Ginocchi, M.Sc.](mailto:mirko.ginocchi@eonerc.rwth-aachen.de)
 
