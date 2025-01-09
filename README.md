@@ -3,9 +3,10 @@ DESSERT is a MatLab-based application for "DESign and analySis of ExpeRiments fo
 
 CONTRIBUTORS:
 Mirko Ginocchi (mirko.ginocchi@eonerc.rwth-aachen.de): Conceptualization, Methodology, Validation, Formal Analysis, Investigation
+
 Maria Lopez Sanchez (maria.lopez.sanchez@rwth-aachen.de): Software, Validation
 
-<img src="docs/Test_Setup.PNG">
+<img src="Test_Setup.PNG">
 
 ## Copyright
 2024-2025, Maria Lopez Sanchez (RWTH-ACS) <br/>
