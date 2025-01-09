@@ -6,6 +6,7 @@ DESSERT is a MatLab-based application for "DESign and analySis of ExpeRiments fo
 ## Contributors:
 Mirko Ginocchi (mirko.ginocchi@eonerc.rwth-aachen.de): Conceptualization, Methodology, Validation, Formal Analysis, Investigation
 Maria Lopez Sanchez (maria.lopez.sanchez@rwth-aachen.de): Software, Validation
+Thanakorn Penthong (thanakorn.penthong@eonerc.rwth-aachen.de): Conceptualization, Methodology
 
 ## Copyright
 2024-2025, Maria Lopez Sanchez (RWTH-ACS) <br/>
@@ -20,6 +21,7 @@ Maria Lopez Sanchez (maria.lopez.sanchez@rwth-aachen.de): Software, Validation
 [![EONERC ACS Logo](eonerc_logo.png)](http://www.acs.eonerc.rwth-aachen.de)
 
 - [Mirko Ginocchi, M.Sc.](mailto:mirko.ginocchi@eonerc.rwth-aachen.de)
+- [Thanakorn Penthong, M.Sc.](mailto:thanakorn.penthong@eonerc.rwth-aachen.de)
 
 [Institute for Automation of Complex Power Systems (ACS)](http://www.acs.eonerc.rwth-aachen.de)  
 [E.ON Energy Research Center (EONERC)](http://www.eonerc.rwth-aachen.de)  
