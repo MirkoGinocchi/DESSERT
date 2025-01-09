@@ -1,11 +1,11 @@
 # DESSERT
 DESSERT is a MatLab-based application for "DESign and analySis of ExpeRiments for power system Testing".
 
+<img src="Test_Setup.PNG">
+
 ## Contributors:
 Mirko Ginocchi (mirko.ginocchi@eonerc.rwth-aachen.de): Conceptualization, Methodology, Validation, Formal Analysis, Investigation
 Maria Lopez Sanchez (maria.lopez.sanchez@rwth-aachen.de): Software, Validation
-
-<img src="Test_Setup.PNG">
 
 ## Copyright
 2024-2025, Maria Lopez Sanchez (RWTH-ACS) <br/>
